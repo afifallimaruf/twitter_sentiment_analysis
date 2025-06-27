@@ -21,6 +21,7 @@
 
 1. Kloning Repositori:
 
+<<<<<<< HEAD
    ```bash
    git clone <your-repo-url>
    cd twitter_sentiment_analysis
@@ -29,13 +30,17 @@
    ```bash
    git clone [https://github.com/user/repo.git](https://github.com/user/repo.git)
    ```
+=======
+   `git clone <your-repo-url>
+   cd twitter_sentiment_analysis`
+>>>>>>> 71c19c91fdce82a3c66199d44f2869fce671caa2
 
 2. Siapkan Backend:
 
 - Buat dan aktifkan virtual environment:
 
   `python3 -m venv <nama-virtual-environment>
-source <nama-virtual-environment>/bin/activate`
+   source <nama-virtual-environment>/bin/activate`
 
 - Install dependensi:
 
@@ -59,7 +64,7 @@ source <nama-virtual-environment>/bin/activate`
 - Masuk ke direktori frontend:
 
   `cd frontend
-npm install`
+   npm install`
 
 - Jalankan sever pengembangan:
 
@@ -70,4 +75,4 @@ npm install`
 - di direktori lain (api), aktifkan virtual environment dan jalankan:
 
   `cd api
-python3 app.py`
+   python3 app.py`
