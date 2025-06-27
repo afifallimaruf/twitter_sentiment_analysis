@@ -21,8 +21,10 @@
 
 1. Kloning Repositori:
 
-   `git clone <your-repo-url>
-cd twitter_sentiment_analysis`
+   ```bash
+   git clone <your-repo-url>
+   cd twitter_sentiment_analysis
+   ```
 
 2. Siapkan Backend:
 
