@@ -26,6 +26,10 @@
    cd twitter_sentiment_analysis
    ```
 
+   ```bash
+   git clone [https://github.com/user/repo.git](https://github.com/user/repo.git)
+   ```
+
 2. Siapkan Backend:
 
 - Buat dan aktifkan virtual environment:
