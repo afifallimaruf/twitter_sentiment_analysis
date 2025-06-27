@@ -29,7 +29,7 @@ cd twitter_sentiment_analysis`
 - Buat dan aktifkan virtual environment:
 
   `python3 -m venv <nama-virtual-environment>
-  source <nama-virtual-environment>/bin/activate`
+source <nama-virtual-environment>/bin/activate`
 
 - Install dependensi:
 
@@ -53,7 +53,7 @@ cd twitter_sentiment_analysis`
 - Masuk ke direktori frontend:
 
   `cd frontend
-  npm install`
+npm install`
 
 - Jalankan sever pengembangan:
 
@@ -64,4 +64,4 @@ cd twitter_sentiment_analysis`
 - di direktori lain (api), aktifkan virtual environment dan jalankan:
 
   `cd api
-  python3 app.py`
+python3 app.py`
